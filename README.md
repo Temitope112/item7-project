@@ -1,16 +1,44 @@
-# React + Vite
+# Item7 Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive frontend web application built with React and Tailwind CSS, focused on clean UI implementation, responsive layouts, and improved user experience.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+https://item7-project.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📌 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Clean and modern user interface
+- Reusable React components
+-Structured frontend layout
+- Interactive and scalable frontend structure
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+
+---
+
+
+---
+
+## 📚 What I Learned
+
+Through this project, I improved my understanding of:
+
+- React component structure
+- Responsive web design
+- Tailwind CSS utility classes
+- State and frontend interaction concepts
+- Frontend layout organization
+- Building scalable UI interfaces
+
+---
+
